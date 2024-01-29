@@ -1,0 +1,4 @@
+BOIDS simulation using OPENGL Graphics Library.
+
+Herbivoric BOIDS must escape the evil (red) carnivorous BOIDS. Will they succeed?
+Run the code to find out.
